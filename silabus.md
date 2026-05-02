@@ -26,6 +26,9 @@ Mata kuliah ini dirancang untuk membekali mahasiswa dengan logika dasar pemrogra
 - **Minggu 4: [TODO: REKAN DOSEN TOLONG TAMBAHKAN MATERI PERULANGAN/LOOPING]**
   - (Materi belum ditambahkan)
 
+- **Minggu 5: [TODO: REKAN DOSEN TOLONG TAMBAHKAN MATERI PERULANGAN/LOOPING]**
+  - (Materi belum ditambahkan)
+
 ## ⚖️ Penilaian (Grading)
 - Kehadiran & Keaktifan: 10%
 - Tugas Praktikum Mingguan: 40%
