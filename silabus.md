@@ -27,7 +27,7 @@ Mata kuliah ini dirancang untuk membekali mahasiswa dengan logika dasar pemrogra
   - class
 
 - **Minggu 5: [TODO: REKAN DOSEN TOLONG TAMBAHKAN MATERI PERULANGAN/LOOPING]**
-  - (Materi belum ditambahkan)
+  - oop
 
 ## ⚖️ Penilaian (Grading)
 - Kehadiran & Keaktifan: 10%
