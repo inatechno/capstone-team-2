@@ -26,8 +26,8 @@ Mata kuliah ini dirancang untuk membekali mahasiswa dengan logika dasar pemrogra
 - **Minggu 4: class**
   - class
 
-- **Minggu 5: [TODO: REKAN DOSEN TOLONG TAMBAHKAN MATERI PERULANGAN/LOOPING]**
-  - oop
+- **Minggu 5: OOP**
+  - oop object oriented programming
 
 ## ⚖️ Penilaian (Grading)
 - Kehadiran & Keaktifan: 10%
