@@ -23,8 +23,8 @@ Mata kuliah ini dirancang untuk membekali mahasiswa dengan logika dasar pemrogra
   - Deklarasi function
   - tipe Function
 
-- **Minggu 4: [TODO: REKAN DOSEN TOLONG TAMBAHKAN MATERI PERULANGAN/LOOPING]**
-  - (Materi belum ditambahkan)
+- **Minggu 4: class**
+  - class
 
 ## ⚖️ Penilaian (Grading)
 - Kehadiran & Keaktifan: 10%
