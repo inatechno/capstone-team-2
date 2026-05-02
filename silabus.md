@@ -19,8 +19,9 @@ Mata kuliah ini dirancang untuk membekali mahasiswa dengan logika dasar pemrogra
   - Deklarasi variabel
   - Input & Output dasar
 
-- **Minggu 3: [TODO: ASISTEN TOLONG ISI MATERI TENTANG PERCABANGAN DI SINI]**
-  - (Materi belum ditambahkan)
+- **Minggu 3: Function dan Method**
+  - Deklarasi function
+  - tipe Function
 
 - **Minggu 4: [TODO: REKAN DOSEN TOLONG TAMBAHKAN MATERI PERULANGAN/LOOPING]**
   - (Materi belum ditambahkan)
