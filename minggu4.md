@@ -5,6 +5,10 @@
   - tipe object
  
  materi minggu 4 dan prakteknya
+<<<<<<< HEAD
  testing iswandi
+=======
+ testing zumardi
+>>>>>>> 631a5c9 (tes)
  
 --------------------------------------------------------------------------------
